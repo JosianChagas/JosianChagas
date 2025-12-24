@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-<p style="text-align: justify;"> Me chamo Josian Antônio Neves das Chagas, sou natural de Santa Maria de Jetibá e sou apaixonado por tecnologia. Conclui o ensino médio no ano de 2024 na EEEM "Francisco Guilherme" e atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela Microlins, onde venho desenvolvendo habilidades em programação e lógica computacional, com foco em desenvolvimento de software, buscando constante aprimoramento técnico e crescimento profissional no setor de TI. Gosto de aprender na prática, explorar novas tecnologias e transformar ideias em soluções digitais.
+<p style="text-align: justify;"> Me chamo Josian Antônio Neves das Chagas, sou natural de Santa Maria de Jetibá e sou apaixonado por tecnologia. Conclui o ensino médio no ano de 2024 na EEEM "Francisco Guilherme" e atualmente, estou cursando Análise e Desenvolvimento de Sistemas pela Microlins, onde venho desenvolvendo habilidades em programação e lógica computacional, buscando constante aprimoramento técnico e crescimento profissional no setor de TI. Gosto de aprender na prática, explorar novas tecnologias e transformar ideias em soluções digitais.
 </p>
 
 
